@@ -89,6 +89,22 @@
   <div class="hero-inner">
     <div>
       <p class="eyebrow">Simulador educativo · Tesouro Direto</p>
+
+<!--
+  TESOURO EDUCA
+
+  Aplicação web educacional desenvolvida de forma independente por
+  Pablo Phillipe Cândido dos Santos, destinada à simulação e compreensão
+  dos fatores que influenciam os resultados de investimentos em títulos
+  do Tesouro Direto.
+
+  O desenvolvimento contou com ferramentas de inteligência artificial
+  generativa como recurso auxiliar, mantendo-se sob responsabilidade do
+  autor a concepção, implementação, integração e verificação do projeto.
+
+  Currículo Lattes: http://lattes.cnpq.br/9500873674712528
+-->
+
       <h1>Entenda <em>por que</em> cada título chega a um resultado diferente.</h1>
       <p class="hero-copy">Compare cenários, decomponha impostos e inflação, visualize juros compostos e experimente marcação a mercado sem usar dinheiro real.</p>
     </div>
