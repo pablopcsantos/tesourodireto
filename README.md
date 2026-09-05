@@ -83,10 +83,10 @@ A matemática fica em `src/lib/finance.ts`, separada da interface.
 
 Para validação de regras e atualização futura, consulte sempre as páginas oficiais do Tesouro Direto e da B3, especialmente regras e regulamento, características dos títulos, histórico de preços e taxas e materiais de precificação.
 
-👤 Autoria e desenvolvimento
+## 👤 Autoria e desenvolvimento
 
-O Tesouro Educa é uma aplicação web educacional desenvolvida de forma independente por Pablo Phillipe Cândido dos Santos, destinada à simulação e compreensão dos fatores que influenciam os resultados de investimentos em títulos do Tesouro Direto. A aplicação permite comparar diferentes modalidades, explorar cenários econômicos e observar os efeitos de variáveis como taxas de juros, inflação, prazo, tributação, custos e marcação a mercado.
+O **Tesouro Educa** é uma aplicação web educacional desenvolvida de forma independente por **Pablo Phillipe Cândido dos Santos**, destinada à simulação e compreensão dos fatores que influenciam os resultados de investimentos em títulos do Tesouro Direto. A aplicação permite comparar diferentes modalidades, explorar cenários econômicos e observar os efeitos de variáveis como taxas de juros, inflação, prazo, tributação, custos e marcação a mercado.
 
 O desenvolvimento contou com a utilização de ferramentas de inteligência artificial generativa como recurso auxiliar no processo de desenvolvimento, mantendo-se sob responsabilidade do autor a concepção, implementação, integração e verificação do projeto.
 
-Currículo Lattes: "http://lattes.cnpq.br/9500873674712528" (http://lattes.cnpq.br/9500873674712528)
+Currículo Lattes: [http://lattes.cnpq.br/9500873674712528](http://lattes.cnpq.br/9500873674712528)
