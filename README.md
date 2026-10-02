@@ -1,5 +1,9 @@
 # Tesouro Educa
 
+*Read this in other languages: [English](README-en.md)*
+
+---
+
 Aplicação web educativa para explicar os fatores que influenciam o resultado dos títulos do Tesouro Direto. O projeto foi pensado para publicação estática no GitHub Pages e não exige backend.
 
 ## O que está incluído
